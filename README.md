@@ -12,12 +12,11 @@ wallythewebdev@gmail.com
 
 ## Find Me Online :globe_with_meridians:
 
-:black_small_square: http://wallythewebdev.com/
+:black_small_square: [Wally The Web Dev](http://wallythewebdev.com/)
 Developer Site:<br>
 > Updates Coming Soon! :hear_no_evil:<br>
 
-:black_small_square: http://littleleo.dev/
-[link to Google!](http://google.com)
+:black_small_square: [little leo blog](http://littleleo.dev/)
 Blog Site :page_with_curl:
 
 ## My Present :point_down:
