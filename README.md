@@ -2,7 +2,7 @@
 
 ![wally the web dev logo](img/dark-logo.png)
 
-### About me 
+## About me 
 I'm a self taught freelance web-developer who builds cool things on the web! <br>
 I take my clients words and turn them into websites, so they can focus on what they do best! <br>
 
@@ -17,6 +17,7 @@ Developer Site:<br>
 > Updates Coming Soon! :hear_no_evil:<br>
 
 :black_small_square: http://littleleo.dev/
+[link to Google!](http://google.com)
 Blog Site :page_with_curl:
 
 ## My Present :point_down:
