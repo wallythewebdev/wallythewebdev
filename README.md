@@ -8,10 +8,15 @@ I take my clients words and turn them into websites, so they can focus on what t
 
 ## Find Me Online :globe_with_meridians:
 
-Developer Site: 
+Developer Site:
+<br>
 > Needs some
+<br>
 > work :hear_no_evil:
+<br>
 [wally the web dev](http://wallythewebdev.com/)
+
+<br>
 [little leo](http://littleleo.dev/)
 
 
