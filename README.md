@@ -13,9 +13,9 @@ Developer Site:
 > Needs some
 > work :hear_no_evil:
 <br>
-[wally_the_web_dev](http://wallythewebdev.com/)
+[wally_the_web_dev](http://wallythewebdev.com)
 
 <br>
-[little_leo](http://littleleo.dev/)
+[little_leo](http://littleleo.dev)
 
 
