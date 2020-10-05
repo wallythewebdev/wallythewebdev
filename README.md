@@ -11,7 +11,6 @@ I take my clients words and turn them into websites, so they can focus on what t
 Developer Site:
 <br>
 > Needs some
-<br>
 > work :hear_no_evil:
 <br>
 [wally the web dev](http://wallythewebdev.com/)
