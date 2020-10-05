@@ -10,11 +10,10 @@ I take my clients words and turn them into websites, so they can focus on what t
 
 Developer Site:
 <br>
-> Needs some
-> work :hear_no_evil:
+> Updates Coming Soon! :hear_no_evil:
 <br>
-[wally_the_web_dev](http://wallythewebdev.com)
-[WALLY THE WEB DEV](http://wallythewebdev.com)
+[wally_the_web_dev](http://www.wallythewebdev.com)
+[WALLY THE WEB DEV](http://www.wallythewebdev.com)
 
 <br>
 [little_leo](http://littleleo.dev)
