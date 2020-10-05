@@ -35,4 +35,5 @@ Senior Full Stack / Project Manager
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <p>
+  
 #### Multi Player Rock, Paper, Sissors Alt - [Take a look](https://ninjashotgunbear.com/) (<< still in development)
