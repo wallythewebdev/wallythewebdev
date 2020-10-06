@@ -1,6 +1,7 @@
-# Hi, I'm Wally! 
 
-![wally the web dev logo](img/dark-logo.png)
+<h1 float="left" width="50%" >Hi, I'm Wally!</h1> 
+<img float="right" width="50%" src="img/dark-logo.png">
+
 
 ## About me 
 I'm a self taught freelance web-developer who builds cool things on the web! <br>
