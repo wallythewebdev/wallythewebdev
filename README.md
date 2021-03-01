@@ -2,6 +2,8 @@
 <h1 float="left" width="50%" >Hi, I'm Wally!</h1> 
 <img float="right" width="50%" src="img/dark-logo.png">
 
+# Current
+Im currenrly changing over my hosting provider and moving projects, so the links to my work are not working currently (just a friendly heads up).
 
 ## About me 
 I'm a self taught freelance web-developer who builds cool things on the web! <br>
@@ -49,7 +51,7 @@ Developer Site:<br>
 Blog Site :page_with_curl:
 
 ## My Present :point_down:
-Junior Full Stack Developer
+Front end developer @ 10 creative
 
 ## My Future :crystal_ball:
 Senior Full Stack / Project Manager
